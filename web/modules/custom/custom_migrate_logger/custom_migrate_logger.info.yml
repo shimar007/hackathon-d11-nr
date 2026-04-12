@@ -1,0 +1,8 @@
+name: 'Migration Job Logger'
+type: module
+description: 'Logs migration jobs start, completion, and failures to watchdog.'
+core_version_requirement: ^10 || ^11
+package: Custom
+dependencies:
+  - migrate
+  - migrate_tools

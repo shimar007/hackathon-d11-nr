@@ -1,0 +1,9 @@
+name: newrelic
+repository: tbkot/ddev-newrelic
+version: 0.1.1
+install_date: "2026-04-13T07:21:45+10:00"
+project_files:
+    - commands/web/newrelic
+    - web-build/Dockerfile.newrelic
+global_files: []
+removal_actions: []
